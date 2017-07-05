@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LibrarySystemDataService.LibraryServiceHub" CodeBehind="LibraryServiceHub.svc.cs" %>
